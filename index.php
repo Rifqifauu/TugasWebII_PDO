@@ -38,6 +38,7 @@
                         <input type="number" class="form-control" name="gaji" required>
                     </div>
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Simpan</button>
+<a href="index.php" class="btn btn-danger">Batal</a> <a href="view.php" class="btn btn-success">Lihat Data Pegawai</a>
                 </form>
             </div>
         </div>

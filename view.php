@@ -55,6 +55,8 @@
                             echo '<tr><td colspan="4">Gagal: ' . $e->getMessage() . '</td></tr>';
                         }
                         ?>
+                        <tr><td colspan='4'></td><td>    <a href="index.php" class="btn btn-success">Tambah Data</a>
+</td></tr>
                     </tbody>
                 </table>
             </div>
