@@ -76,8 +76,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body" id="modalBody">
-                    <!-- Data input akan ditampilkan di sini -->
-                </div>
+Simpan Data yang Telah Diubah?                </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Tutup</button>
                     <button type="button" class="btn btn-dark" onclick="submitForm()">Simpan Data</button>
